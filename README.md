@@ -2,16 +2,6 @@
 
 Build and evaluate several machine learning models to predict credit risk using data you'd typically see from peer-to-peer lending services. Employ different techniques for training and evaluating models with imbalanced classes.
 
-## Files
-
-[Resampling Starter Notebook](Starter_Code/credit_risk_resampling.ipynb)
-
-[Ensemble Starter Notebook](Starter_Code/credit_risk_ensemble.ipynb)
-
-[Lending Club Loans Data](Resources/LoanStats_2019Q1.csv.zip)
-
-- - -
-
 ## Instructions
 
 ### Resampling
